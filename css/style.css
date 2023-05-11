@@ -1,0 +1,32 @@
+body {
+    background-color:aqua;
+}
+
+p {
+    font-family: cursive;
+    font-weight: 700;
+}
+
+div {
+    width: 30%;
+    height: 80vh;
+    float: left;
+}
+
+#caja1 {
+    background-color: orange;
+}
+
+#caja2 {
+    background-color: rgb(13, 255, 0);
+    width: 40%;
+}
+
+#caja3 {
+    background-color: rgb(255, 0, 89);
+}
+
+#caja4 {
+    background-color: rgb(21, 0, 255);
+    width: 100%;
+}
